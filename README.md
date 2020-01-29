@@ -20,7 +20,7 @@ Challenge to Frontend Developer position at <a href="https://github.com/educacao
 
 Using only HTML and based on the [example file](./emkt-example.png), create an email marketing accessible to all mail box (Outlook, Gmail, Thunderbird Mail, etc).  
 You can test your email in the [PutsMail tool](https://putsmail.com).  
-The email marketing header is available in [assets/header-emkt.png](/assets/header-emkt.png), the footer logo is in [./assets/educacao-metodista.png](/assets/educacao-metodista.png) and the content is available in [mail.md file](assets/mail.md)
+The email marketing header is available in [assets/header-emkt.jpg](/assets/header-emkt.jpg), the footer logo is in [./assets/educacao-metodista.png](/assets/educacao-metodista.png) and the content is available in [mail.md file](assets/mail.md)
 
 ## 2nd step - Landing Page
 
