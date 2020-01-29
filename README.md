@@ -18,14 +18,15 @@ Challenge to Frontend Developer position at <a href="https://github.com/educacao
 
 ## 1st step - E-mail Marketing
 
-Using only HTML, create an email marketing accessible to all mail box (Outlook, Gmail, Thunderbird Mail, etc).  
+Using only HTML and based on the [example file](./emkt-example.png), create an email marketing accessible to all mail box (Outlook, Gmail, Thunderbird Mail, etc).  
 You can test your email in the [PutsMail tool](https://putsmail.com).  
-The email marketing header is available in [assets/header-emkt.png](./assets/header-emkt.png) and the content is available in [mail.md file](assets/mail.md)
+The email marketing header is available in [assets/header-emkt.png](/assets/header-emkt.png), the footer logo is in [./assets/educacao-metodista.png](/assets/educacao-metodista.png) and the content is available in [mail.md file](assets/mail.md)
 
-## 2st step - Landing Page
+## 2nd step - Landing Page
 
 Here you're free to use you criativity.  
-Based on the Educação Metodista patterns, create a landing page to sell a 50% discount scholarship.
+Based on the Educação Metodista patterns, create a Landing Page to sell a 50% discount scholarship.
+You can develop a static page with only HTML, CSS and/or JS, or use frameworks like Angular, Vue or React and CSS Preprocessors like SASS/SCSS, just certify yourself that provide a good documentation.
 
 You can check our references at the below links.
 
@@ -36,3 +37,7 @@ You can check our references at the below links.
 * [Centro Universitário Metodista IPA](http://ipametodista.edu.br)
 * [Centro Universitário Metodista Izabela Hendrix](http://izabelahendrix.edu.br)
 * [Colégios da Educação Metodista](http://colegiometodista.g12.br)
+
+<hr />
+
+After should you finish, send us a pull request with your name and contact email.
