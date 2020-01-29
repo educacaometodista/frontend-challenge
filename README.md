@@ -11,10 +11,6 @@ Challenge to Frontend Developer position at <a href="https://github.com/educacao
 </blockquote>
 
 <p align="center">
-  
-  <a href="https://rocketseat.com.br">
-    <img alt="Made by Educação Física" src="https://img.shields.io/badge/made%20by-Educação%Metodista-%2304D361">
-  </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
 
