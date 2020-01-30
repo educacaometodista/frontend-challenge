@@ -1,0 +1,38 @@
+html,
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+#main {
+  background-image: linear-gradient(#4278be, #405ad6, #4b3dcc);
+  padding: 20px;
+}
+
+@media (min-width: 768px) {
+  #main {
+    height: calc(100vh - 170px);
+  }
+}
+
+.main-title > h1 {
+  padding-top: 20px;
+  color: #ffffff;
+}
+
+.main-form {
+  margin-top: 20px;
+  background-image: linear-gradient(#869ec4, #8a94db);
+  padding: 20px;
+  -webkit-box-shadow: 10px 10px 22px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 10px 10px 22px 0px rgba(0, 0, 0, 0.75);
+  box-shadow: 10px 10px 22px 0px rgba(0, 0, 0, 0.75);
+}
+
+.btn-yellown {
+  background-color: #e7a61a;
+}
+
+.main-text {
+  color: #ffffff;
+  margin-top: 20%;
+}
